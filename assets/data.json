@@ -1,0 +1,54 @@
+{
+  "cover_photo": "https://cdn.mos.cms.futurecdn.net/KLZwUWe4JwyyXY7pV7CpaU.jpg",
+  "series_name": "SUPERHERO SERIES",
+  "coaches": [
+    {
+      "name": "Tawny Janae",
+      "about": "about Tawny"
+    },
+    {
+      "name": "Jacy Cunningham",
+      "about": "about Jacy"
+    }
+  ],
+  "about_series": {
+    "total_time": "20 hrs 20 mins (20 Videos)",
+    "difficulty": "Intermediate",
+    "intensity": "Level 3"
+  },
+  "classes": [
+    {
+      "class_video": "https://cdn.mos.cms.futurecdn.net/KLZwUWe4JwyyXY7pV7CpaU.jpg",
+      "class_name": "Test Name",
+      "discription": "any discription"
+    },
+    {
+      "class_video": "https://cdn.mos.cms.futurecdn.net/KLZwUWe4JwyyXY7pV7CpaU.jpg",
+      "class_name": "Test Name",
+      "discription": "any discription"
+    },
+    {
+      "class_video": "https://cdn.mos.cms.futurecdn.net/KLZwUWe4JwyyXY7pV7CpaU.jpg",
+      "class_name": "Test Name",
+      "discription": "any discription"
+    },
+    {
+      "class_video": "https://cdn.mos.cms.futurecdn.net/KLZwUWe4JwyyXY7pV7CpaU.jpg",
+      "class_name": "Test Name",
+      "discription": "any discription"
+    },
+    {
+      "class_video": "https://cdn.mos.cms.futurecdn.net/KLZwUWe4JwyyXY7pV7CpaU.jpg",
+      "class_name": "Test Name",
+      "discription": "any discription"
+    }
+  ],
+  "community_socal": [
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/KLZwUWe4JwyyXY7pV7CpaU.jpg",
+      "name": "Gina",
+      "time": "3 minutes",
+      "comment": "Test comment"
+    }
+  ]
+}
