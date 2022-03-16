@@ -10,6 +10,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:invoa_test/series_feature/bloc/series_bloc.dart';
 
 void main() {
+  TestWidgetsFlutterBinding.ensureInitialized();
   group('SeriesBloc', () {
     late SeriesBloc seriesBloc;
 
